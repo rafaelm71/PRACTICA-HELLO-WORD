@@ -1,0 +1,7 @@
+FROM alpine
+
+ENV Alumno = Rafael
+
+RUN echo "Comando de la imagen"
+
+CMD echo "Hola soy Rafael David Malena y mi id es 1075534"
